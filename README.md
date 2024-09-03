@@ -46,7 +46,9 @@ ii)	Create Schematic Cell view.
 	Create Input and Output pins
 	Make the connections by using fixed narrow wire key
 	Click Check and Save button
-![image]![image](https://github.com/user-attachments/assets/f7941174-f183-421a-810d-b9762b53ebf1)
+
+![Screenshot 2024-09-03 112655](https://github.com/user-attachments/assets/bc711bbb-1e74-4026-8de7-c79d95159bee)
+
 
 
 
@@ -65,7 +67,7 @@ iii)	Creating the Symbol for schematic Cell view
 •	Check for the position of pin side.Prss OK
 •	Edit for the shape by Create-Shape-Choose required options to edit.
 
- ![image]![WhatsApp Image 2024-09-03 at 11 48 20_705a97a5](https://github.com/user-attachments/assets/91e7bba8-fe79-4745-bcff-68e1a4c4b194)
+ ![WhatsApp Image 2024-09-03 at 11 48 20_705a97a5](https://github.com/user-attachments/assets/91e7bba8-fe79-4745-bcff-68e1a4c4b194)
 
 
 
@@ -79,7 +81,8 @@ iv)	Creating the new test cell view
 	View: Schematic
 	Type: Schematic press OK
 •	Follow the step 3(ii) d to make the required connections
-![image]![Screenshot 2024-09-03 112625](https://github.com/user-attachments/assets/7ee20c79-021c-4625-a5dc-ad749df9d899)
+
+![Screenshot 2024-09-03 112625](https://github.com/user-attachments/assets/7ee20c79-021c-4625-a5dc-ad749df9d899)
 
 
 
@@ -97,14 +100,15 @@ Analog simulation by SPECTRE.
 
 For Transient Analysis Settings and Output
 
- ![image]![WhatsApp Image 2024-09-03 at 11 53 59_fbab80e4](https://github.com/user-attachments/assets/d27c6630-42c3-4cb4-ac95-e2faf9594c58)
+ ![WhatsApp Image 2024-09-03 at 11 53 59_fbab80e4](https://github.com/user-attachments/assets/d27c6630-42c3-4cb4-ac95-e2faf9594c58)
 
 
  For DC Analysis Settings and Output
-![image]![Screenshot 2024-09-03 115203](https://github.com/user-attachments/assets/ae10c1d5-4f1e-4111-9db8-de13e9eda001)
+ 
+![Screenshot 2024-09-03 115203](https://github.com/user-attachments/assets/ae10c1d5-4f1e-4111-9db8-de13e9eda001)
 
 
-![image]![Screenshot 2024-09-03 110848](https://github.com/user-attachments/assets/af40d7d6-358c-4e95-b3c6-b872d4d7195e)
+![Screenshot 2024-09-03 110848](https://github.com/user-attachments/assets/af40d7d6-358c-4e95-b3c6-b872d4d7195e)
 
 
  
